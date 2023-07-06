@@ -1,0 +1,62 @@
+---
+title: "Goldschmidt 2023 Conference"
+format:
+  html:
+    theme: sandstone
+editor: visual
+---
+
+## About me
+
+I'm Alejandra Vega, researcher at the Center for Sustainable Urban Development and the Faculty of Engineering of the Pontificia Universidad Católica de Chile.
+
+Civil Industrial Engineer, mention in hydraulics, Pontificia Universidad Católica de Chile. Master and PhD in Engineering Sciences from the same university.  
+
+I have been dedicated to research on issues related to water quality and its evaluation and control/treatment, focusing on contaminants such as metals and arsenic. 
+
+## Presentation
+
+[Urban environmental geochemistry in metal mining districts: street dusts as a screening tool](https://conf.goldschmidt.info/goldschmidt/2023/meetingapp.cgi/Paper/18629)
+AS Vega, S Cortés, S Acevedo, PA Pasten
+
+Friday 14th July
+09.15-13.00
+R12 (Building B, Level 1, Lyon Congress Center)
+
+## Poster
+
+[Arsenic and copper in arid and semiarid Andean rivers: controls of suspended particle size distribution by aluminum and iron geochemistry](https://conf.goldschmidt.info/goldschmidt/2023/meetingapp.cgi/Paper/18579)
+
+Pablo Pastén, Mauricio Montecinos, José A. Díaz, Ana Macarena Turri, Alejandro Briso and Alejandra Vega
+
+Theme 9f: (Bio-)geochemical processes in soils and water of arid and semi-arid environments
+Wednesday, 12 July 2023: 17:30 CET - 19:30 CET
+Lyon Congress Center, France
+Exhibit and Poster Hall
+
+## Research group papers
+
+[Perchlorate and chlorate assessment in drinking water in northern Chilean cities](https://www.sciencedirect.com/science/article/pii/S0013935123012549)
+Diana Muñoz-Arango, Felipe Torres-Rojas, Natalia Tapia, Marcela Vega, Cristobal Alvear a, Gonzalo Pizarro, Pablo Pastén, Sandra Cortés, Alejandra S. Veg, Raúl Calderón, Robert Nerenberg , Ignacio T. Vargas
+Environmental Research, 116450		2023
+
+[The dynamics of arsenic and copper in solid and aqueous phases in reactive confluences receiving acid drainage: The role of turbidity and particle size](https://www.sciencedirect.com/science/article/pii/S0269749123004517)
+JA Díaz, D Castillo, R Oyarzún, A Briso, M Montecinos, P Pastén
+Environmental Pollution 327, 121449		2023
+
+[Global assessment of chemical quality of drinking water: The case of trihalomethanes](https://www.sciencedirect.com/science/article/pii/S0043135423000040)
+CM Villanueva et al.
+Water Research 230, 119568	4	2023
+
+[Challenges and opportunities for drinking water treatment residuals (DWTRs) in metal-rich areas: an integrated approach](https://link.springer.com/article/10.1007/s11356-022-20262-6)
+A Briso, AS Vega, M Molinos-Senante, P Pastén
+Environmental Science and Pollution Research 29 (43), 65599-65612	2	2022
+
+[A comparative study of soil metal concentrations in Chilean urban parks using four pollution indexes](https://www.sciencedirect.com/science/article/pii/S0883292722000348)
+AS Vega et al.
+Applied Geochemistry 141, 105230	8	2022
+
+[Settling of copper-rich suspended particles from acid drainage neutralization as a function of chemical composition and particle size distribution](https://www.sciencedirect.com/science/article/pii/S0883292722000439)
+M Montecinos, A Briso, A Vega, P Pastén
+Applied Geochemistry 139, 105239	3	2022
+
