@@ -12,7 +12,7 @@ I'm Alejandra Vega, researcher at the Center for Sustainable Urban Development a
 
 Civil Industrial Engineer, mention in hydraulics, Pontificia Universidad Católica de Chile. Master and PhD in Engineering Sciences from the same university.  
 
-I have been dedicated to research on issues related to water quality and its evaluation and control/treatment, focusing on contaminants such as metals and arsenic. 
+I have been dedicated to research on issues related to water quality and its evaluation and control/treatment, focusing on contaminants such as metals and arsenic. As well as environmental geochemistry, studying the presence of metals in the soils of mining cities and their impact on health.
 
 ## Presentation
 
@@ -35,6 +35,7 @@ Lyon Congress Center, France
 Exhibit and Poster Hall
 
 ## Research group papers
+[Chemical functionalization of drinking water treatment residuals with calcium silicate hydrate to treat metal-enriched waters](https://doi.org/10.1016/j.jwpe.2023.103884) Briso, A., Turri-Rivero, A., Montecinos, M., Molinos-Senante, M., Pastén, P.2023
 
 [Perchlorate and chlorate assessment in drinking water in northern Chilean cities](https://www.sciencedirect.com/science/article/pii/S0013935123012549)
 Diana Muñoz-Arango, Felipe Torres-Rojas, Natalia Tapia, Marcela Vega, Cristobal Alvear a, Gonzalo Pizarro, Pablo Pastén, Sandra Cortés, Alejandra S. Veg, Raúl Calderón, Robert Nerenberg , Ignacio T. Vargas
@@ -59,4 +60,12 @@ Applied Geochemistry 141, 105230	8	2022
 [Settling of copper-rich suspended particles from acid drainage neutralization as a function of chemical composition and particle size distribution](https://www.sciencedirect.com/science/article/pii/S0883292722000439)
 M Montecinos, A Briso, A Vega, P Pastén
 Applied Geochemistry 139, 105239	3	2022
+
+[Partitioning of copper at the confluences of Andean rivers](https://www.sciencedirect.com/science/article/pii/S0045653520315113) 
+Montecinos, M., Coquery, M., Alsina, M. A., Bretier, M., Gaillard, J. F., Dabrin, A., & Pastén, P.2020
+
+[An integrated study of health, environmentaland socioeconomic indicators in a mining-impacted community exposed to metal enrichment](https://pubmed.ncbi.nlm.nih.gov/31049755/)
+Pablo M. Moya,Guillermo J. Arce,Cinthya Leiva,Alejandra S. Vega,Santiago Gutierrez,Hector Adaros,Luis Muñoz,Pablo A. Pasten, Sandra Cortes 2019
+
+[Active and legacy mining in an arid urban environment:challenges and perspectives for Copiapó, Northern Chile](https://link.springer.com/article/10.1007/s10653-016-9793-5) Athena B. Carkovic, Magdalena S. Calcagni, Alejandra S. Vega, Marina Coquery, Pablo M. Moya, Carlos A. Bonilla, Pablo A. Pasten 2016
 
